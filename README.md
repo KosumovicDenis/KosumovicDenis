@@ -4,11 +4,7 @@
   <h3>🌱 I’m currently learning:
     <ul>
       <li>Java</li>
-      <li>C</li>
-      <li>Visual Basic</li>
       <li>GDScript</li>
-      <li>Html5</li>
-      <li>Css</li>
       <li>Js</li>
       <li>Php</li>
       <li>Ajax</li>
