@@ -4,7 +4,7 @@
     <ul>
       <li>TypeScript</li>
       <li>React</li>
-      <li>Database</li>
+      <li>Game development</li>
     </ul>
    </h3>
 </div>
