@@ -1,3 +1,3 @@
 <div>
-  <h1>👋I'm Denis Kosumovic!</h1>
+  <h3>👋Hi there!</h3>
 </div>
