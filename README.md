@@ -9,7 +9,7 @@ I am a senior computer science student at I.T.T.S. V. Volterra High School.
 - 🏆 1st place - European Robocup Junior 2022 - Guimarães - [Rescue Maze Entry Specialty](https://www.facebook.com/Venetorientaleinformazione/photos/a.134389604626146/908532157211883/?type=3)
 - 🏆 1st place - Regional Robocup Junior 2023 - Vicenza - Rescue Maze Specialty
 - 🏆 1st place - Italian Robocup Junior 2023 - Vicenza - [Rescue Maze Specialty](https://voitg.net/2023/04/san-dona-bottino-di-premi-per-gli-studenti-dellitis-volterra-al-robocupjunior)
-- 4th -  Robocup Junior World Cup 2023 - Bordeaux - [Rescue Maze Specialty](https://www.istitutovolterra.edu.it/campioni-del-mondo-campioni-del-mondoooo/)
+- 4th place -  Robocup Junior World Cup 2023 - Bordeaux - [Rescue Maze Specialty](https://www.istitutovolterra.edu.it/campioni-del-mondo-campioni-del-mondoooo/)
 
 #### 📓 Past Experiences
 
