@@ -2,7 +2,7 @@
 
 ### 🏋 Denis Kosumovic
 
-I am a senior computer science student at I.T.T.S. V. Volterra High School.
+I am a computer engineering student at the University of Padua.
 
 #### 🤖 Robotics Competitions
 - 🏆 1st place - Italian Robocup Junior 2022 - Trento - [Rescue Maze Entry Specialty](https://www.facebook.com/Venetorientaleinformazione/photos/a.134389604626146/878717740193325/)
