@@ -16,3 +16,21 @@ I am a software engineering student at the University of Padua.
 🧑‍💻 Erasmus+ 2022 in Lisbon
 - Instituto Superior de Engenharia de Lisboa, photonics department
   - Development of Python interface for RSoft CAD, a photonic circuit simulation program by reverse engineering its ASCII based file format to programmatically create and simulate photonic circuits using a python program
+
+### Programming languages / Technologies
+- C++
+  - Embedded systems development w/ PlatformIO
+- Web
+  - Angular, Strapi, Javascript, Typescript, Node.js, SQL, HTML, CSS
+  - Learning Nuxt 📖 
+- Visual Basic
+  - Windows Form, WPF
+- Golang
+  - Fyne, Backend
+- Python
+  - OpenCV
+- Java
+
+- Other
+  - OpenMV 📷
+  - Edge Impulse 🤖🖼️
