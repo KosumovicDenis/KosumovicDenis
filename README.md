@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-### 🏋 Denis Kosumovic
+### Denis Kosumovic
 
 I am a software engineering student at the University of Padua.
 
@@ -22,7 +22,7 @@ I am a software engineering student at the University of Padua.
   - Embedded systems development w/ PlatformIO
 - Web
   - Angular, Strapi, Javascript, Typescript, Node.js, SQL, HTML, CSS
-  - Learning Nuxt 📖 
+  - Learning Vue & Nuxt 📖 
 - Visual Basic
   - Windows Form, WPF
 - Golang
@@ -34,3 +34,5 @@ I am a software engineering student at the University of Padua.
 - Other
   - OpenMV 📷
   - Edge Impulse 🤖🖼️
+  - FreeCAD ⚙
+  - Godot 👾
