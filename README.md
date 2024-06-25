@@ -33,6 +33,5 @@ I am a software engineering student at the University of Padua.
 
 - Other
   - OpenMV 📷
-  - Edge Impulse 🤖🖼️
   - FreeCAD ⚙
   - Godot 👾
