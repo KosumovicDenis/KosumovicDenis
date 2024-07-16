@@ -26,7 +26,7 @@ I am a software engineering student at the University of Padua.
 - Visual Basic
   - Windows Form, WPF
 - Golang
-  - Fyne, Backend
+  - Portaudio, Fyne
 - Python
   - OpenCV
 - Java
